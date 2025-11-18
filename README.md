@@ -33,6 +33,7 @@
 开发环境：
 Arduino IDE (用于为 Arduino 编程)
 Python 3.x (用于在 Banana Pi BPI-F3/Raspberry Pi 4上运行高级控制逻辑或上位机程序)
+
 Embodied Perception Head (Embodied perception head)
 Project Introduction
 Welcome to the open-source Bionic Human Head project! This is an open-source project dedicated to designing and building highly realistic and interactive bionic human heads. Our goal is to create a platform that enables enthusiasts, students and researchers to explore the cutting-edge technologies in robotics, artificial intelligence and human-computer interaction.
