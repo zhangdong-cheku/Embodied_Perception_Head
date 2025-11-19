@@ -68,4 +68,4 @@ Software requirements
 Development environment
 Arduino IDE (for programming Arduino)
 Python 3.x (for running advanced control logic or host computer programs on Banana Pi BPI-F3/Raspberry Pi 4)
-![图片描述]()
+![仿生头](pictures/仿生头.gif)
