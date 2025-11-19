@@ -63,8 +63,9 @@ Tools
 3D printer
 Basic hand tools such as screwdrivers and pliers
 Soldering iron and solder (for soldering circuits)
-Computer (for programming and design
+Computer (for programming and design）
 Software requirements
 Development environment
 Arduino IDE (for programming Arduino)
 Python 3.x (for running advanced control logic or host computer programs on Banana Pi BPI-F3/Raspberry Pi 4)
+![图片描述]()
