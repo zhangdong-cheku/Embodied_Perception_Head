@@ -1,5 +1,9 @@
 # Embodied-Perception-Head
 具身感知头（Embodied Perception Head）
+
+<p align="center">  
+  <img src="pictures/仿生头.jpg" width="800"/>
+  
 项目简介
 欢迎来到开源仿生人头项目！这是一个致力于设计和构建高度仿真、可交互的仿生人头的开源项目。我们的目标是创建一个平台，让爱好者、学生和研究人员能够探索机器人学、人工智能和人机交互的前沿技术。
 主要特性
